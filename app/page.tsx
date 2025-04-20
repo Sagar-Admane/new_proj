@@ -71,7 +71,7 @@ export default function Home() {
 
       <main className="flex-1">
         {/* Hero Section */}
-        <section className="container mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-24 md:py-32">
+        <section className="container mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-12 md:py-16">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
             <div>
               <h1 className="text-4xl md:text-6xl font-bold tracking-tight">
@@ -106,8 +106,8 @@ export default function Home() {
         </section>
 
         {/* About Section */}
-        <section id="about" className="container mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-16 md:py-24">
-          <h2 className="text-3xl font-bold mb-8">About Me</h2>
+        <section id="about" className="container mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-4 md:py-8">
+          <h2 className="text-3xl font-bold mb-6">About Me</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div className="md:col-span-2">
               <p className="text-lg text-muted-foreground mb-4">
