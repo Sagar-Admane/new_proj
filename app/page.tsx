@@ -60,7 +60,7 @@ export default function Home() {
               </Link>
             </Button>
             <Button variant="default" asChild className="hidden md:flex">
-              <Link href="/resume.pdf" target="_blank" rel="noopener noreferrer">
+              <Link href="https://drive.google.com/file/d/1sfPvrf-Nyd-IBFqb1qxwPiJomyrmVe77/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                 <FileText className="mr-2 h-4 w-4" />
                 Resume
               </Link>
