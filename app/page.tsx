@@ -36,19 +36,19 @@ export default function Home() {
           </nav>
           <div className="flex items-center gap-2">
             <Button variant="outline" size="icon" asChild>
-              <Link href="https://github.com/" target="_blank" rel="noopener noreferrer">
+              <Link href="https://github.com/Theanushkaraghuvanshi/" target="_blank" rel="noopener noreferrer">
                 <Github className="h-4 w-4" />
                 <span className="sr-only">GitHub</span>
               </Link>
             </Button>
             <Button variant="outline" size="icon" asChild>
-              <Link href="https://linkedin.com/in/" target="_blank" rel="noopener noreferrer">
+              <Link href="https://www.linkedin.com/in/theanushkaraghuvanshi" target="_blank" rel="noopener noreferrer">
                 <Linkedin className="h-4 w-4" />
                 <span className="sr-only">LinkedIn</span>
               </Link>
             </Button>
             <Button variant="outline" size="icon" asChild>
-              <Link href="https://twitter.com/" target="_blank" rel="noopener noreferrer">
+              <Link href="https://x.com/theanushka01" target="_blank" rel="noopener noreferrer">
                 <Twitter className="h-4 w-4" />
                 <span className="sr-only">Twitter</span>
               </Link>
@@ -60,7 +60,7 @@ export default function Home() {
               </Link>
             </Button>
             <Button variant="default" asChild className="hidden md:flex">
-              <Link href="https://drive.google.com/file/d/1sfPvrf-Nyd-IBFqb1qxwPiJomyrmVe77/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+              <Link href="https://drive.google.com/file/d/1SBfgTncf_UdEMqFWGxxGXyk7hhKQvcr1/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                 <FileText className="mr-2 h-4 w-4" />
                 Resume
               </Link>
@@ -198,7 +198,7 @@ export default function Home() {
                   </div>
                   <div className="mt-2 md:mt-0 text-muted-foreground">2022 - 2026</div>
                 </div>
-                <p className="text-muted-foreground">CGPA: 7.1</p>
+                <p className="text-muted-foreground">CGPA: 6.97</p>
               </CardContent>
             </Card>
 
@@ -212,7 +212,7 @@ export default function Home() {
                   </div>
                   <div className="mt-2 md:mt-0 text-muted-foreground">2020 - 2021</div>
                 </div>
-                <p className="text-muted-foreground">Percentage: 74%</p>
+                {/* <p className="text-muted-foreground">Percentage: 74%</p> */}
               </CardContent>
             </Card>
 
@@ -226,7 +226,7 @@ export default function Home() {
                   </div>
                   <div className="mt-2 md:mt-0 text-muted-foreground">2018 - 2019</div>
                 </div>
-                <p className="text-muted-foreground">Percentage: 83%</p>
+                {/* <p className="text-muted-foreground">Percentage: 83%</p> */}
               </CardContent>
             </Card>
           </div>
@@ -524,7 +524,7 @@ export default function Home() {
                   <div className="flex items-center gap-3">
                     <Linkedin className="h-5 w-5 text-primary" />
                     <a
-                      href="https://linkedin.com/in/"
+                      href="https://www.linkedin.com/in/theanushkaraghuvanshi"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="hover:text-primary transition-colors"
@@ -535,7 +535,7 @@ export default function Home() {
                   <div className="flex items-center gap-3">
                     <Github className="h-5 w-5 text-primary" />
                     <a
-                      href="https://github.com/"
+                      href="https://github.com/Theanushkaraghuvanshi/"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="hover:text-primary transition-colors"
@@ -546,7 +546,7 @@ export default function Home() {
                   <div className="flex items-center gap-3">
                     <Twitter className="h-5 w-5 text-primary" />
                     <a
-                      href="https://twitter.com/"
+                      href="https://x.com/theanushka01"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="hover:text-primary transition-colors"
