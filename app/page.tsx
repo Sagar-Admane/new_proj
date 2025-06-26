@@ -198,7 +198,7 @@ export default function Home() {
                   </div>
                   <div className="mt-2 md:mt-0 text-muted-foreground">2022 - 2026</div>
                 </div>
-                <p className="text-muted-foreground">CGPA: 6.97</p>
+                <p className="text-muted-foreground">CGPA: 7.04</p>
               </CardContent>
             </Card>
 
